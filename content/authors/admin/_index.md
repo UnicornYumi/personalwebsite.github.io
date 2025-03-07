@@ -3,7 +3,7 @@
 title: Nelson Bighetti
 
 # Full Name (for SEO)
-first_name: Nelson
+first_name: Nel
 last_name: Bighetti
 
 # Is this the primary user of the site?
