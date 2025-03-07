@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nel Bighetti
 
 # Full Name (for SEO)
 first_name: Nel
